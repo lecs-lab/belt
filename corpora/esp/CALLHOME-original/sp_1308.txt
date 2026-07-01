@@ -1,0 +1,182 @@
+121.04 139.25 A: De una, de una como se llama, de un consorcio de universidades que se formó en el año noventa parece, una cuestión así, y después empezaron a dar servicio, se formaron comercialmente y empezaron a dar servicio, todas las universidades privadas ahora están con ellos.
+139.98 141.44 B: Claro, eso es lo que tenía entendido.
+141.15 157.21 A: Ya, entonces pa- pa- tienen que registrarse, parece que estos gallos no se han registrado, y por eso que mi com- las computadores de fuera no los reconocen, yo creo que incluso dentro de Chile, que no sean internos de la Portales, no los reconocen.
+158.33 165.49 A: Así que, yo le mandé, por ejemplo, a este Alvarez, después que me mandaste tú, le mandé a él un mensaje --
+166.55 167.01 B: Ayer.
+165.80 167.99 A: diciéndole que había recibido, ayer, claro.
+168.41 168.76 B: Ya.
+168.54 180.49 A: Después que tú me mandaste, que había recibido tu mensaje, pero que no podía contestarte, así que por favor te mandara un mensaje interno, avisándote. ¿No recibiste nada así?
+180.72 181.62 B: No.
+181.42 197.39 A: Le mandé a varios gallos, le mandé uno al gallo de Reuna, también, y le mandé otro al Rutz de, de la Portales, así que a lo mejor hoy día te van, pero los gallos esos parece que no se conectan nunca, pues oh, así que no --
+197.08 207.39 B: yo tengo entendido que, que el administrador, porque el administrador primero se sentó y mandó un mensaje y al parecer, parece, que lo mandó a la jota ocho tres --
+204.38 204.72 A: Ya.
+207.47 213.60 A: Sí, si yo hablé, yo le mandé un mensaje al tres y me lo mandó, y luego, luego --
+212.91 215.08 B: Y claro, y lo mandó el administrador --
+215.27 216.84 A: Ya, ya, ya, ya.
+216.59 224.95 B: Porque estaba, parece, no sé qué le pasó, parece que estaba sin lentes, no veía los números, y estaba como vieja tecleando, y después lo corrigió, pues --
+222.49 232.48 A: Ya. Te digo, recibí otro también, del, de un administrador parece que fue, pero venía en blanco, con tres líneas en blanco.
+233.40 234.11 B: Ah, claro.
+234.23 234.56 A: Claro.
+234.44 238.92 B: Es que estaban probando, porque ni ellos saben si está bien, porque tienen ese problema de configuración.
+236.44 236.94 A: Ya.
+239.05 245.24 A: Ya, ya, ya. Yo le contesté y bueno, el mensaje me rebotó, se me dio vuelta para acá, se devolvió porque no encontró el --
+244.68 252.31 B: Y, no sé, me dijo, hay un compañero que trabaja allá arriba también, que me dijo, si yo te doy el paso --
+253.48 263.57 B: eh, tú puedes hacer un, un, como me dijo, entrar al del de Portales al servidor y después --
+262.20 264.51 A: Ya, claro.
+264.30 265.22 B: de adentro --
+265.74 266.79 A: ya, me conecto como tú --
+267.70 268.16 B: Claro.
+268.04 273.07 A: Claro, pero tampoco lo reconoce, eso lo hice yo, el comando es un Telnet, parece --
+273.09 273.96 B: Claro, un Telnet.
+274.15 277.61 A: Claro, pero no se puede porque no lo reconoce porque no está registrada la máquina de ustedes.
+279.05 281.51 A: No lo, no lo, no se reconoce.
+280.90 282.42 B: ¿No está registrada en Reuna?
+282.34 296.73 A: En Reuna, claro. Así que eso es lo que, porque el Reuna tiene que poner al día los archivos, son todos estos son archivos los que hay, entonces cuando el computador tiene que ponerse en contacto con otra máquina distante, empieza a buscar, a buscar, a buscar --
+297.60 304.84 A: y ahí tiene que estar registrado con esos archivos, si no está registrado, no, no hace la conección, pues.
+306.30 308.85 B: Sí, yo ayer me estuve metiendo a FreeNet.
+309.08 310.45 A: ¿A cuál FreeNet te metís tú?
+311.31 315.46 B: Al, a la tuya, pues, a la, a la dirección que tú me diste --
+316.23 317.19 A: ¿Cómo te metiste?
+318.38 319.30 B: Con un Telnet.
+319.57 320.03 A: Ya.
+320.07 320.86 B: Un Open.
+320.80 321.26 A: Ya.
+321.67 322.80 B: El Open primero.
+322.63 332.62 A: Ah, entonces métete en la cuenta mía, pues, tú, te anota, tú te sabís ya el, el A J ocho, ocho, dos, qué sé yo, arroba, FreeNet, FreeNet, Carleton --
+329.93 333.98 B: Arroba, Carleton, FreeNet, punto, Carleton, punto C A --
+333.81 336.17 A: Ya, el <English password> es lulito dos --
+336.52 337.48 B: ¿Cuánto?
+337.50 338.59 A: Lulito dos.
+339.55 341.43 B: Ya, ya.
+340.38 350.04 A: Ya, así que te metís ahí no más, y. Eh, tú mandaste tu <English password> de tu cuenta al gallo este de la ocho, ocho, tres, así es que --
+349.68 350.66 B: No, si lo cambié, pues --
+350.81 352.69 A: Ah, ¿lo cambiaste? ¿cuándo, ayer?
+352.13 356.34 B: Sí, ayer pues, ayer mismo, porque me di cuenta que este gallo la mandó mal.
+355.88 368.08 A: Ah, ya, ya. Ya. Así que, claro eso te iba a decir yo. [background speech] Por si ese gallo se puede por -- pero como te digo la máquina de ustedes no está accesible de afuera, de fuera de la Portales, así que --
+367.81 369.00 B: No, lo cambié en el momento.
+369.02 374.99 A: Ya. Porque ustedes no han recibido nada de mensajes de afuera, ¿no? ¿Alguien ha recibido, recibe mensajes de afuera o no?
+375.55 379.18 B: Eh, no, pues, al parecer no, no tengo idea, realmente no sé, pues.
+377.38 381.60 A: No, (( )) no, eso no se puede. Ya está, pues.
+381.12 385.35 B: Yo voy a tratar de comunicarme con un amigo de la Chile, ahora, así --
+384.02 385.93 A: Ya, a ver si se puede.
+385.70 386.85 B: y me tira algo para acá, pues.
+387.12 387.83 A: Ya.
+389.58 396.28 A: Porque eso también sería la otra, si tú te puedes comunicar con ese de la Chile, y de ahí de la Chile salir para acá, para fuera.
+397.78 398.30 B: Ah, claro.
+398.53 401.76 A: Claro, con quién es, con el Maturana, o con otro.
+400.97 405.04 B: Claro, pero el Maturana, el Maturana tiene hartas cuentas que le han dado los Jáguer.
+405.21 406.89 A: Puta, el huevón este, ya.
+406.71 408.11 B: Tiene, tiene varias cuentas.
+408.23 410.28 A: Chuta, y no usa ninguna, ¿o usa alguna?
+410.17 414.82 B: No, yo lo llamé ayer para decirle, pero estaba durmiendo porque se quedó toda la noche estudiando --
+415.07 415.95 A: Chitas.
+415.80 417.14 B: Ayer en la tarde estaba durmiendo, pues --
+417.18 417.87 A: Ya.
+417.68 418.43 B: {throat clear}
+419.20 421.06 A: Puta madre, ya --
+420.50 426.40 B: y entonces, hay un par de cuentas que debe tener desocupadas, pues.
+426.19 430.53 A: Podías usar tú. Pero, de ahí de tu escuela, ¿te podís meter a alguna de la Chile?
+431.60 438.73 B: No sé, ayer me traté de meter pero no, no me acordaba del, del, del servidor, pues. Es Araucaria, punto, punto, sec, parece --
+438.77 446.07 A: Eh, espérate, a ver (( )) **tutututú**, Araucaria, no --
+445.53 448.53 B: Araucaria, punto, sec, punto U C H, punto, C L.
+448.91 450.91 A: Claro, parece que es así --
+450.53 451.03 B: ¿Eso es?
+451.17 464.56 A: Parece que sí, no lo tengo aquí a mano, espérate, a ver, estoy buscando, **tututututú**, chucha madre, espérate, déjame buscar aquí en esta otra libreta --
+463.37 464.16 B: [noise]
+465.41 469.10 A: aquí está, Araucaria, sec, U Chile, C L.
+470.25 470.90 B: ¿U Chile?
+471.11 471.98 A: Sí, U Chile.
+472.00 472.77 B: ¿o, U C H?
+472.88 473.59 A: No, U Chile.
+474.96 476.03 B: A ver, Araucaria --
+476.47 477.24 A: Sec --
+477.26 478.93 B: sec --
+479.09 479.78 A: U Chile --
+479.66 480.34 B: U Chile --
+480.14 480.68 A: C L --
+481.26 485.56 B: C L, ahí está pues, voy a ver si ahora puedo.
+486.17 486.44 A: Ya.
+488.48 492.17 A: Okey, y, ¿cómo están allá en la casa?
+492.90 493.42 B: Bien.
+494.03 495.95 A: Sí, ¿todos bien? ¿La Claudia está durmiendo?
+495.68 497.14 B: Sí, todos bien. ¿Ah?
+496.68 499.39 A: ¿Está dur- está durmiendo la Claudia?
+499.18 500.79 B: No, la Claudia partió al colegio.
+500.70 503.10 A: Ah, ya se fue ya, ¡chupalla!, ¿a qué hora entra?
+502.12 504.27 B: Sí, pues. A las ocho.
+504.71 507.50 A: Ah, la máquina. Y tú, estás durmiendo.
+507.94 510.90 B: No, yo ya iba saliendo, yo estaba justo terminando de tomar desayuno.
+511.05 512.40 A: Ah, ¿sí? ¡chupalla!
+512.28 512.72 B: Sí.
+513.11 515.89 A: Ah, ya, tenís clases temprano hoy día.
+515.97 516.33 B: Sí.
+516.20 517.79 A: Ya, y, cómo te ha ido.
+518.47 518.97 B: Bien.
+519.27 519.77 A: Ya.
+519.64 519.95 B: Bien.
+520.48 523.04 A: Ya. Y, ¿para cuándo te graduai?
+524.46 525.08 B: No sé, pues.
+525.13 526.23 A: ¡Chuta!
+525.52 529.57 B: Ah, a todo esto, a todo esto, llamó ayer José --
+530.24 532.30 A: Ah, el Francis --
+532.07 534.18 B: Sí, cómo, Pacheco --
+533.07 535.53 A: Pacheco. Ah, ¿llamó?
+535.07 536.08 B: Pacheco, sí.
+536.24 536.76 A: Ah, ¿sí?
+536.51 538.33 B: Ayer lo llamé, anoche.
+537.49 542.98 A: Ya. Ya está. Y podís pasar por ahí por la -- ¿está trabajando? yo creo que sí, ah.
+543.33 545.42 B: Eh, no, me, me dijo que fuera a la casa --
+545.46 546.40 A: Ah, a la casa.
+546.17 548.61 B: porque, la está arreglando y --
+548.92 549.44 A: Ah, ya.
+549.32 551.01 B: me dijo que a cualquier hora podía ir --
+551.11 556.01 A: Ya, ya, ya. Pero te conviene ir allá a la casa, está re lejos, parece que está para arriba, para La Reina --
+555.10 557.01 B: Queda al otro lado del mundo --
+557.22 559.04 A: Está para arriba para La Reina parece esta (( ))
+559.02 560.31 B: Sí, al final, al final --
+561.33 563.88 A: Chuta, qué vai a hacer, vai a esperar que vuelva a trabajar o no.
+564.96 569.97 B: Eh, no, voy a ir, me voy a pegar un pique, no sé pues, uno de estos días. Le voy a decir a un compañero que --
+569.82 570.22 A: Ya.
+570.05 573.62 B: que me deje cerca, uno que ande en auto, que me tire --
+573.79 574.45 A: Ya.
+574.52 576.91 B: me deje cerca y después me vuelvo en micro, si --
+577.04 578.48 A: Ya, porque yo te estoy mandando --
+578.08 579.67 B: la vieja no -- ¿ah?
+579.04 585.13 A: ¿ah? porque yo te estoy mandando el cheque, ahora junté dos cheques, ahora te lo estoy mandando esta tarde --
+585.45 585.99 B: Ya.
+585.80 593.68 A: y ahí te estaba explicando de los discos de la agenda que te digo yo, electrónica, del <English Playboy> eh --
+592.01 592.54 B: Mmm.
+595.19 599.55 A: como se llama, el primer disco parece que está corrupto.
+600.71 601.47 B: Y ¿hay que limpiarlo?
+600.86 610.08 A: Eh, no, eh, tiene que haber, en el primer disco tiene que haber archivos con extensión X C o extensión T X T --
+608.01 611.35 B: Ya, cómo, texto
+611.60 620.41 A: texto de T X T y parece que todos están con punto, cómo se llama esta rayita de subrayado --
+620.86 626.27 A: y otras dos letras, o sea, que parece que se substituyeron esos archivos de alguna manera --
+626.49 640.51 A: así que si tú no tení, archivo, échale una mirada al disco uno sobre todo, si no tení eh, porque tení que empezarlo a instalar con el disco uno, eh, si no tení archivo X C quiere decir que te lo voy a tener que mandar de nuevo --
+639.60 640.08 B: Mmm.
+642.25 642.56 B: Ya.
+642.60 650.52 A: Ya, o si no, échale una mirada, o que le de una mirada el guatón, porque el mismo juego de discos se los dí al guatón, al José Pacheco.
+650.68 652.38 B: Y ¿tendrá computador?
+652.90 657.75 A: Parece que no tiene el gua- no sé si tendrá en la pega, pero --
+659.00 664.99 A: puedes decirle tú que te los preste para echarle una miradita, si es que los tuyos están malos, no sé pues, porque no creo que tenga en la casa (( ))
+667.50 672.80 A: Así que, (( )) y les mandé también otro paquetito de sorpresa para ustedes.
+673.55 677.03 B: Ya. Una cámara, me dijo también, que venía, me dijo este gallo --
+676.75 679.04 A: Ah, te dijo el guatón, puta el guatón sapo, el guatón.
+678.25 680.25 B: Sí, {laugh}
+679.19 685.76 A: Le dije al huevón que era sorpresa, (( )) {laugh}, puta el huevón, metió las patas el guatón. Ya --
+686.59 688.43 A: Ya, ojalá que les guste, les sirva --
+688.93 689.43 B: Ya.
+689.24 694.37 A: Y para que me manden alguna fotita, para eso se las estoy mandando, la chiva de que todavía está el rollo adentro --
+691.04 691.98 B: Mmm. [noise]
+695.17 696.48 A: ¿Sacaron el rollo al final?
+695.60 698.25 B: Sí, (( )) [[distortion]] sí, parece que lo sacaron --
+698.44 700.78 A: Puta, y -- y cómo estaba, esta bueno ¿o no?
+701.55 704.53 B: No sé, yo realmente no lo he visto --
+704.63 706.95 A: Chupalla, y ahí habían fotos de aquí de Canadá, pú-
+709.35 713.52 B: Sí, no sé, debe estar el rollo por ahí, no, no, no creo que las hayan mandado a revelar todavía --
+713.35 717.65 A: Por Dios, ya.
+717.28 718.76 B: Es que ya es un robo sacar fotos aquí --
+719.21 719.55 A: ¿Ah?
+720.32 723.09 B: Es un robo ya, la cuestión de las fotos, aquí.
+721.30 723.55 A: Sí, por qué, ¿cobran muy caro?
+723.43 725.95 B: Oye, el carísimo, el revelado es carísimo.
