@@ -8,7 +8,7 @@ import urllib.request
 CORPUS_REPO = "lecs-lab/belt"
 
 
-def download_corpus(corpus_name: str) -> str:
+def download_corpus(corpus_name: str, branch: str = "main") -> str:
     """Downloads one of the course corpora from GitHub into a local folder.
 
     For example, download_corpus("usp") creates a folder called
@@ -20,7 +20,7 @@ def download_corpus(corpus_name: str) -> str:
     os.makedirs(local_directory, exist_ok=True)
 
     # Ask the GitHub API for the list of files in the corpus folder
-    api_url = f"https://api.github.com/repos/{CORPUS_REPO}/contents/corpora/{corpus_name}"
+    api_url = f"https://api.github.com/repos/{CORPUS_REPO}/contents/corpora/{corpus_name}?ref={branch}"
     with urllib.request.urlopen(api_url) as response:
         files = json.load(response)
 
