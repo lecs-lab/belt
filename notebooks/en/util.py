@@ -1,8 +1,8 @@
-import json
 import os
 import re
 import unicodedata
 import urllib.request
+import zipfile
 
 # The GitHub repository where the course corpora are stored
 CORPUS_REPO = "lecs-lab/belt"
@@ -17,18 +17,14 @@ def download_corpus(corpus_name: str, branch: str = "main") -> str:
     straight to load_raw_text().
     """
     local_directory = os.path.join("corpora", corpus_name)
-    os.makedirs(local_directory, exist_ok=True)
 
-    # Ask the GitHub API for the list of files in the corpus folder
-    api_url = f"https://api.github.com/repos/{CORPUS_REPO}/contents/corpora/{corpus_name}?ref={branch}"
-    with urllib.request.urlopen(api_url) as response:
-        files = json.load(response)
+    # Each corpus is stored as a single zip file in the repository
+    zip_url = f"https://raw.githubusercontent.com/{CORPUS_REPO}/{branch}/corpora/{corpus_name}.zip"
+    zip_path, _ = urllib.request.urlretrieve(zip_url)
 
-    # Download each text file into the local folder
-    for file_info in files:
-        if file_info["name"].endswith(".txt"):
-            local_path = os.path.join(local_directory, file_info["name"])
-            urllib.request.urlretrieve(file_info["download_url"], local_path)
+    # Unzip the corpus into the local folder
+    with zipfile.ZipFile(zip_path) as zip_file:
+        zip_file.extractall(local_directory)
 
     print(f"Downloaded {corpus_name} corpus to {local_directory}")
     return local_directory
