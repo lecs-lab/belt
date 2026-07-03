@@ -1,6 +1,34 @@
 import os
 import re
 import unicodedata
+import urllib.request
+import zipfile
+
+# The GitHub repository where the course corpora are stored
+CORPUS_REPO = "lecs-lab/belt"
+
+
+def download_corpus(corpus_name: str, branch: str = "main") -> str:
+    """Downloads one of the course corpora from GitHub into a local folder.
+
+    For example, download_corpus("usp") creates a folder called
+    corpora/usp with all of the Uspanteko text files in it.
+    Returns the path to the new folder, so you can pass it
+    straight to load_raw_text().
+    """
+    local_directory = os.path.join("corpora", corpus_name)
+
+    # Each corpus is stored as a single zip file in the repository
+    zip_url = f"https://raw.githubusercontent.com/{CORPUS_REPO}/{branch}/corpora/{corpus_name}.zip"
+    zip_path, _ = urllib.request.urlretrieve(zip_url)
+
+    # Unzip the corpus into the local folder
+    with zipfile.ZipFile(zip_path) as zip_file:
+        zip_file.extractall(local_directory)
+
+    print(f"Downloaded {corpus_name} corpus to {local_directory}")
+    return local_directory
+
 
 def strip_accents(text: str) -> str:
     """Removes accents from text."""
