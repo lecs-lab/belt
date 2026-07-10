@@ -30,6 +30,32 @@ def download_corpus(corpus_name: str, branch: str = "main") -> str:
     return local_directory
 
 
+def use_my_corpus(folder_name: str = "my-corpus") -> str:
+    """Connects your Google Drive so you can use your own corpus files.
+
+    Put your .txt files in a folder in your Drive (called "my-corpus"
+    by default), then call this function. The first time, Google will
+    ask you to authorize access to your Drive. Returns the path to your
+    folder, so you can pass it straight to load_raw_text().
+    """
+    from google.colab import drive
+
+    drive.mount("/content/drive")
+
+    my_folder = os.path.join("/content/drive/MyDrive", folder_name)
+
+    if not os.path.isdir(my_folder):
+        # Create the folder so the user can just drop files into it
+        os.makedirs(my_folder)
+        print(f"Created a folder called '{folder_name}' in your Google Drive.")
+        print("Put your corpus .txt files in it, then run this cell again.")
+    else:
+        text_files = [f for f in os.listdir(my_folder) if f.endswith(".txt")]
+        print(f"Found {len(text_files)} text file(s) in '{folder_name}'.")
+
+    return my_folder
+
+
 def strip_accents(text: str) -> str:
     """Removes accents from text."""
     return ''.join(c for c in unicodedata.normalize('NFD', text)
