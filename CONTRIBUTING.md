@@ -29,8 +29,9 @@ A few details:
   lessons on the page. The rest of the filename is used to match your
   translation to the English lesson, so don't change it.
 - To translate the website's own text (the subtitle and section headers),
-  add an entry for your language to `UI_TEXT` in `scripts/build_site.py`,
-  or just ask for help in your pull request and we'll add it.
+  copy `notebooks/en/site.json` into your language folder and translate the
+  values. If you skip this, your page shows the English text until someone
+  adds it.
 
 ## Add a new lesson
 
