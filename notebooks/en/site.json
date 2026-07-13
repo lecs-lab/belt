@@ -1,0 +1,12 @@
+{
+  "language_name": "English",
+  "subtitle": "Learn practical skills for building low-resource language technology.",
+  "intro_title": "Intro &mdash; Start Here!",
+  "intro_desc": "Get set up with the Google Colab environment that you'll need for all the lessons.",
+  "skills": "Skills",
+  "skills_desc": "Valuable techniques for working with Python, regular expressions, and other tools that you'll need. If you have a strong coding background, you can skip right to the projects below.",
+  "projects": "Projects",
+  "projects_desc": "Put your skills together to build real language technology, from spellcheckers to predictive text.",
+  "english_only": "English only",
+  "contribute": "Want to add a lesson or translate the course into your language? See the contributing guide."
+}

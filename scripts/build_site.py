@@ -20,51 +20,20 @@ OUTPUT_DIR = "docs"
 COLAB_BASE = "https://colab.research.google.com/github/lecs-lab/belt/blob/main/"
 REPO_URL = "https://github.com/lecs-lab/belt"
 
-# Display names for the language folders. A new language that isn't listed
-# here just shows its folder code in uppercase, so this is optional.
-LANGUAGE_NAMES = {
-    "en": "English",
-    "es": "Español",
-    "pt": "Português",
-}
-
-# Interface text for each language. New languages fall back to English
-# until a translation is added here.
-UI_TEXT = {
-    "en": {
-        "subtitle": "Learn practical skills for building low-resource language technology.",
-        "intro_title": "Intro &mdash; Start Here!",
-        "intro_desc": "Get set up with the Google Colab environment that you'll need for all the lessons.",
-        "skills": "Skills",
-        "skills_desc": "Valuable techniques for working with Python, regular expressions, and other tools that you'll need. If you have a strong coding background, you can skip right to the projects below.",
-        "projects": "Projects",
-        "projects_desc": "Put your skills together to build real language technology, from spellcheckers to predictive text.",
-        "english_only": "English only",
-        "contribute": "Want to add a lesson or translate the course into your language? See the contributing guide.",
-    },
-    "es": {
-        "subtitle": "Aprende habilidades prácticas para construir tecnología para lenguas con pocos recursos.",
-        "intro_title": "Introducción: ¡empieza aquí!",
-        "intro_desc": "Prepara el entorno de Google Colab que necesitarás para todas las lecciones.",
-        "skills": "Habilidades",
-        "skills_desc": "Técnicas valiosas para trabajar con Python, expresiones regulares y otras herramientas que necesitarás. Si ya tienes experiencia programando, puedes pasar directamente a los proyectos.",
-        "projects": "Proyectos",
-        "projects_desc": "Combina tus habilidades para construir tecnología del lenguaje real, desde correctores ortográficos hasta texto predictivo.",
-        "english_only": "Solo en inglés",
-        "contribute": "¿Quieres agregar una lección o traducir el curso a tu idioma? Consulta la guía de contribución.",
-    },
-    "pt": {
-        "subtitle": "Aprenda habilidades práticas para construir tecnologia para línguas com poucos recursos.",
-        "intro_title": "Introdução: comece aqui!",
-        "intro_desc": "Prepare o ambiente do Google Colab que você vai precisar para todas as lições.",
-        "skills": "Habilidades",
-        "skills_desc": "Técnicas valiosas para trabalhar com Python, expressões regulares e outras ferramentas que você vai precisar. Se você já tem experiência com programação, pode ir direto para os projetos.",
-        "projects": "Projetos",
-        "projects_desc": "Combine suas habilidades para construir tecnologia de linguagem real, de corretores ortográficos a texto preditivo.",
-        "english_only": "Somente em inglês",
-        "contribute": "Quer adicionar uma lição ou traduzir o curso para a sua língua? Veja o guia de contribuição.",
-    },
-}
+# Each language folder can have a site.json with the interface text for
+# its page (subtitle, section names, badge text, and the language's display
+# name). Copy notebooks/en/site.json and translate it. Languages without
+# one fall back to the English text.
+def load_ui_text(language):
+    path = os.path.join(NOTEBOOKS_DIR, language, "site.json")
+    with open(os.path.join(NOTEBOOKS_DIR, "en", "site.json")) as f:
+        text = json.load(f)
+    # Don't inherit English's display name; default to the folder code
+    text["language_name"] = language.upper()
+    if os.path.exists(path):
+        with open(path) as f:
+            text.update(json.load(f))
+    return text
 
 # Icons for known lessons, keyed by the lesson's slug (see slug()).
 # Lessons without an entry get the default icon, so this is optional too.
@@ -183,8 +152,7 @@ def language_nav(languages, current):
 
 
 def build_page(language, languages, english_skills, english_projects):
-    text = UI_TEXT.get(language, UI_TEXT["en"])
-    name = LANGUAGE_NAMES.get(language, language.upper())
+    text = load_ui_text(language)
 
     if language == "en":
         skills = [(lesson, False) for lesson in english_skills]
