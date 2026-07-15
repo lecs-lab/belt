@@ -1,0 +1,12 @@
+{
+  "language_name": "Español",
+  "subtitle": "Aprende habilidades prácticas para construir tecnología para lenguas con pocos recursos.",
+  "intro_title": "Introducción: ¡empieza aquí!",
+  "intro_desc": "Prepara el entorno de Google Colab que necesitarás para todas las lecciones.",
+  "skills": "Habilidades",
+  "skills_desc": "Técnicas valiosas para trabajar con Python, expresiones regulares y otras herramientas que necesitarás. Si ya tienes experiencia programando, puedes pasar directamente a los proyectos.",
+  "projects": "Proyectos",
+  "projects_desc": "Combina tus habilidades para construir tecnología del lenguaje real, desde correctores ortográficos hasta texto predictivo.",
+  "english_only": "Solo en inglés",
+  "contribute": "¿Quieres agregar una lección o traducir el curso a tu idioma? Consulta la guía de contribución."
+}
