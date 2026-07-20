@@ -53,6 +53,7 @@ ICONS = {
     "word-games": ("fa-solid fa-puzzle-piece", "bg-blue"),
     "predictive-text-with-deep-learning": ("fa-solid fa-network-wired", "bg-cyan"),
     "automatic-inflection": ("fa-solid fa-arrows-split-up-and-left", "bg-teal"),
+    "putting-your-app-on-a-phone": ("fa-solid fa-mobile-screen-button", "bg-indigo"),
 }
 DEFAULT_ICON = ("fa-solid fa-book", "bg-blue")
 
